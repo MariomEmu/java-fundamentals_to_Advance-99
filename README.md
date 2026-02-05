@@ -9,6 +9,7 @@
 | # | Topic | Description |
 |---|-------|-------------|
 | 1 | [JDK](JDK.md) | Java Development Kit explained |
-| 2 | [JVM](JVM.md) | Java Virtual Machine deep dive |
-| 3 | [Collections](Collections.md) | Lists, Maps, Sets, etc. |
+| 2 | [JRE](JRE.md) | Java Runtime Environment explained |
+| 3 | [JVM](JVM.md) | Java Virtual Machine deep dive |
+| 4 | [Collections](Collections.md) | Lists, Maps, Sets, etc. |
 
